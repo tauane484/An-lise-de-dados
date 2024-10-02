@@ -1,3 +1,5 @@
 body{
-    background-color: var(--bg-color);
+    background-color:rgb(31, 91, 99);
+    color:rgba(31, 119, 134, 0.144);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
